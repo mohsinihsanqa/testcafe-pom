@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Taimur Aamer",       
+        "email":"1t.aamer@gmail.com",
+        "password": "Admin@123",
+        "company": "DDD - Dédié au Design Durable",
+        "address1": "Rue Beaubien E",
+        "address2": "2356",
+        "city": "Montréal",
+        "state": "Québec",
+        "postalCode": "H2G 1N2",
+        "phone": "(514) 533 - 0326",
+        "cardNumber": "4111111111111111",
+        "expirey": "1125",
+        "CVC":  "123",
+        "zip": "25000"
+    }
+]

@@ -1,0 +1,12 @@
+{
+  "name": "brewoptix",
+  "version": "0.1.0",
+  "scripts": {
+    "test": "testcafe chrome --skip-js-errors tests/*.spec.ts",
+    "brand": "testcafe chrome --skip-js-errors tests/brand.spec.ts"
+    
+  },
+  "devDependencies": {
+    "testcafe": "^1.10.1"
+  }
+}
